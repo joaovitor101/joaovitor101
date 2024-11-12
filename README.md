@@ -35,10 +35,11 @@
   <p>             
               <!-- Java --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
               <!-- Spring Boot --> <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="40" height="40"/>
-              <!-- Maven --> <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="40" height="40"/>
               <!-- MySQL --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
               <!-- Postgres --> <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgresql" width="40" height="40"/> 
-              <!-- ESCLIPSE --> <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
+              <!-- Arduino --> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+
+    
  </p>
  </div>
 
