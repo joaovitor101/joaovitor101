@@ -66,7 +66,7 @@
  <h3 align="center">Other knowledges:</h3>
  <p>
 <!-- AutoCAD -->
-AutoCAD
+AutoCAD |
 Qgis
 
 
