@@ -39,7 +39,8 @@
 <!-- MySQL --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
 <!-- PostgreSQL --> <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgresql" width="50" height="50"/> 
 <!-- Java --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
-<!-- PHP --> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="50" height="50"/>
+<!-- PHP --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+
 <br>
 
 <!-- Front-End -->
