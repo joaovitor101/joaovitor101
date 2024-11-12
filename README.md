@@ -62,6 +62,11 @@
 
     
  </p>
+
+ <h3 align="center">Other knowledges:</h3>
+ <p>
+  a
+ </p>  
  </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovitor101&bg_color=069393&color=ffffff&line=000000&point=b4557b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
