@@ -65,7 +65,11 @@
 
  <h3 align="center">Other knowledges:</h3>
  <p>
-  a
+  <!-- AutoCAD -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Autodesk_AutoCAD_logo.svg" alt="autocad" width="50" height="50"/>
+<!-- QGIS -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/QGIS_logo.svg" alt="qgis" width="50" height="50"/>
+
  </p>  
  </div>
 
