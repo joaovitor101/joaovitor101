@@ -66,7 +66,8 @@
  <h3 align="center">Other knowledges:</h3>
  <p>
 <!-- AutoCAD -->
-<img src="https://cdn.worldvectorlogo.com/logos/autocad-1.svg" alt="autocad" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Autodesk_AutoCAD_logo.svg" alt="autocad" width="50" height="50"/>
+
 
 <!-- QGIS -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/QGIS_Logo.svg" alt="qgis" width="50" height="50"/>
