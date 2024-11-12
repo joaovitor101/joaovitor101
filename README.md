@@ -45,6 +45,12 @@
 
 <!-- Front-End -->
 <br>
+<!-- Bootstrap -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
+
+<!-- Tailwind CSS -->
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+
 <!-- JavaScript --> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="50" height="50"/>
 <br>
 
