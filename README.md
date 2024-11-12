@@ -15,7 +15,7 @@
  --></p>
 <div align="center">
 
-  📫 How to reach me: souzadiegocl@gmail.com
+  📫 How to reach me: joao.kusaka27@gmail.com
 </div>
 
 <hr/>
@@ -23,8 +23,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a align="center" href="https://linkedin.com/in/diegosouzaperfil" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego souza" height="30" width="40" /></a>
-  <a align="center" href="https://instagram.com/s0uza_diego" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s0uza_diego" height="30" width="40" /></a>
+  <a align="center" href="https://linkedin.com/in/joao-kusaka" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego souza" height="30" width="40" /></a>
+  <a align="center" href="https://instagram.com/joa.vitinho" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s0uza_diego" height="30" width="40" /></a>
 </div>
   
 
