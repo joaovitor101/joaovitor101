@@ -34,12 +34,14 @@
 <div align="center">
   <p>             
               <!-- Java --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
+              <!-- PHP --> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/>
+              <br>
               <!-- Arduino --> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
               <!-- JavaScript --> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="50" height="50"/>
               <br>
                             <!-- MySQL --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
               <!-- Postgres --> <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgresql" width="50" height="50"/> 
-
+              <br>
 
     
  </p>
