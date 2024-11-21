@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on LocalSig InteliGência Geográfica LTDA
+I'm currently working on LocalSig Inteligência Geográfica LTDA
 
 
 ## 🌐 Socials:
