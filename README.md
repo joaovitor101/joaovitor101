@@ -1,4 +1,4 @@
-<h2 align="left">my name is João Vitor and I'm a student, from fatec de registro - sp</h2>
+<h2 align="left">My name is João Vitor and I'm a student, from Fatec de Registro - SP</h2>
 
 ###
 
