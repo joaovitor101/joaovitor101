@@ -42,9 +42,8 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/username/username/raw/output/snake.svg)
+![Snake animation](https://github.com/joaovitor101/joaovitor101/raw/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/joaovitor101/joaovitor101/output/snake.svg" alt="Snake animation" />
 
 ###
 
