@@ -36,7 +36,7 @@
 
 ###
 
-<h6 align="center">the goat.</h6>
+<h6 align="center">goat</h6>
 
 ###
 
