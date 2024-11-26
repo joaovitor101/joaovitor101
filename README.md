@@ -1,4 +1,4 @@
-<h2 align="left">My name is João Vitor and I'm a student, from Fatec de Registro - SP</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -8,6 +8,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joaovitor101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=joaovitor101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
@@ -45,10 +51,6 @@
 </div>
 
 ###
-
-<div align="center">
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
-</div>
 
 <br clear="both">
 
