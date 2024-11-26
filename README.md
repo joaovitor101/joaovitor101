@@ -58,8 +58,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/joaovitor101/count.svg?"  />
-</div>
 
 ###
