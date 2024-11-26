@@ -15,6 +15,7 @@
 <div align="center">
   
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gug5ae4p65ilxt3ggrrysaat7q)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31gug5ae4p65ilxt3ggrrysaat7q&width={width})
 
 </div>
 
