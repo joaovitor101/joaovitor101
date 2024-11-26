@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is João Vitor and I'm a Estudent, from Fatec de Registro - SP</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,6 +9,10 @@
   <img src="https://streak-stats.demolab.com?user=joaovitor101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitor101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h6 align="center">the goat.</h6>
 
 ###
 
