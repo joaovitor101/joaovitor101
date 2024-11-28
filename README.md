@@ -30,7 +30,7 @@
 
 
   
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gug5ae4p65ilxt3ggrrysaat7q&width=745)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gug5ae4p65ilxt3ggrrysaat7q&width=400)
 
 
 
