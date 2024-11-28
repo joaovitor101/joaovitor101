@@ -30,23 +30,21 @@
 
 
 
-<div align="center">
-<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- Spotify na esquerda -->
+    <td style="text-align: left; vertical-align: top; width: 50%;">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gug5ae4p65ilxt3ggrrysaat7q&width=400" alt="Spotify recently played" />
+    </td>
 
-  <!-- Spotify à esquerda -->
-  <div>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gug5ae4p65ilxt3ggrrysaat7q&width=400" alt="Spotify recently played" />
-  </div>
+    <!-- Foto na direita com 'goat' acima -->
+    <td style="text-align: center; vertical-align: top; width: 50%;">
+      <h6 style="margin-bottom: 10px;">goat</h6>
+      <img src="https://i.postimg.cc/LXLYS5FN/goat.png" height="155" alt="goat" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Foto à direita com 'goat' acima -->
-  <div>
-    <h6 align="center" style="margin-bottom: 10px;">goat</h6>
-    <img src="https://i.postimg.cc/LXLYS5FN/goat.png" height="155" alt="goat" />
-  </div>
-
-</div>
-
-</div>
 
 
 
