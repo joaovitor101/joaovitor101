@@ -34,21 +34,13 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gug5ae4p65ilxt3ggrrysaat7q&width=400)
 
 <h6 align="center">goat</h6>
-
-###
-
 <br clear="both">
-
-<div align="center">
   <img height="155" src="https://i.postimg.cc/LXLYS5FN/goat.png"  />
 </div>
-</div>
 
 
-<br clear="both">
 
 
-###
 
 <br clear="both">
 
