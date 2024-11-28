@@ -30,13 +30,17 @@
 
 
 
-<div align="center">
-  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31gug5ae4p65ilxt3ggrrysaat7q&width=400)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Spotify à esquerda -->
+  <div>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gug5ae4p65ilxt3ggrrysaat7q&width=400" alt="Spotify recently played" />
+  </div>
 
-<h6 align="center">goat</h6>
-<br clear="both">
-  <img height="155" src="https://i.postimg.cc/LXLYS5FN/goat.png"  />
+  <!-- Foto à direita com "goat" em cima -->
+  <div style="text-align: center;">
+    <h6>goat</h6>
+    <img src="https://i.postimg.cc/LXLYS5FN/goat.png" height="155" alt="goat" />
+  </div>
 </div>
 
 
