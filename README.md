@@ -30,6 +30,7 @@
 
 
 
+<div align="center">
 <table>
   <tr>
     <!-- Spotify na esquerda -->
@@ -43,7 +44,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 
 
 
