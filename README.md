@@ -30,8 +30,7 @@
 
 
 <div align="center">
-  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=giisavioo&width=400)
+
 
 <h6 align="center">goat</h6>
 <br clear="both">
