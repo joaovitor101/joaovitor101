@@ -42,7 +42,3 @@
 <img src="https://raw.githubusercontent.com/joaovitor101/joaovitor101/output/snake.svg" alt="Snake animation" />
 </div>
 <h6 align="center">goat</h6>
-###
-
-
-###
