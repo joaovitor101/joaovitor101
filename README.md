@@ -30,10 +30,7 @@
 <div align="center">
 
 
-<h6 align="center">goat</h6>
-<br clear="both">
-  <img height="155" src="https://i.postimg.cc/LXLYS5FN/goat.png"  />
-</div>
+
 
 
 
